@@ -1,5 +1,3 @@
-import type { CMSFilters } from '../../types/CMSFilters';
-import type { Product } from './types';
 
 /**
  * Populate CMS Data from an external API.
